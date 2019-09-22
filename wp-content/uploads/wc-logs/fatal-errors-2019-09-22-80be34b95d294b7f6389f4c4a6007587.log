@@ -1,0 +1,2 @@
+2019-09-22T18:49:39+00:00 CRITICAL Allowed memory size of 314572800 bytes exhausted (tried to allocate 4194312 bytes) in C:\new\xampp\htdocs\m_app\wp-includes\plugin.php on line 198
+

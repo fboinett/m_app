@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mobile App</title>
+	<atom:link href="http://localhost/m_app/feed/" rel="self" type="application/rss+xml" />
+	<link>https://fboinett.github.io/m_app</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sun, 22 Sep 2019 18:38:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+	<item>
+		<title>Hello world!</title>
+		<link>https://fboinett.github.io/m_app/hello-world/</link>
+				<comments>https://fboinett.github.io/m_app/hello-world/#comments</comments>
+				<pubDate>Sun, 22 Sep 2019 18:38:33 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://fboinett.github.io/m_app/?p=1</guid>
+				<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+								<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+							<wfw:commentRss>https://fboinett.github.io/m_app/hello-world/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+							</item>
+		<item>
+		<title>Future design concept</title>
+		<link>https://fboinett.github.io/m_app/future-design-concept/</link>
+				<comments>https://fboinett.github.io/m_app/future-design-concept/#comments</comments>
+				<pubDate>Wed, 03 Feb 2016 13:15:38 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bussiness]]></category>
+		<category><![CDATA[Future]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[experiments]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://keysoft-wp.keydesign-themes.com/?p=1821</guid>
+				<description><![CDATA[Ut enim ad minima veniam, quis nostrum exercitationem ullam et suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Et mollis, est non [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Ut enim ad minima veniam, quis nostrum exercitationem ullam et suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Et mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec ullamcorper nulla non metus auctor fringilla.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://fboinett.github.io/m_app/future-design-concept/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+							</item>
+		<item>
+		<title>Stand out venues</title>
+		<link>https://fboinett.github.io/m_app/stand-out-venues/</link>
+				<comments>https://fboinett.github.io/m_app/stand-out-venues/#comments</comments>
+				<pubDate>Mon, 25 Jan 2016 20:31:08 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[IT]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[framework]]></category>
+		<category><![CDATA[general]]></category>
+		<category><![CDATA[study]]></category>
+
+		<guid isPermaLink="false">http://keysoft-wp.keydesign-themes.com/?p=408</guid>
+				<description><![CDATA[Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Integer posuere erat a ante venenatis dapibus [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. <strong>Integer posuere</strong> erat a ante venenatis dapibus posuere velit aliquet. Donec ullamcorper nulla non metus auctor fringilla.</p>
+<p>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.</p>
+<blockquote><p>Nunc blandit tincidunt consequat. Duis diam metus, suscipit in pulvinar eget, egestas id arcu. Duis a enim vel mauris ultrices. Nullam aliquet velit ac velit tempus in semper neque auctor. Aenean ligula mi, auctor sed tempus ultrices, semper tempus diam.</p></blockquote>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod <strong>tempor incididunt</strong> ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+<p>Etiam pellentesque, suscipit in pulvinar eget placerat, leo leo consequat ante, non iaculis turpis augue ac ligula. Nunc blandit tincidunt consequat. Duis diam metus, suscipit in pulvinar eget, egestas id arcu. Duis a enim vel mauris ultrices. Nullam aliquet velit ac velit tempus in semper neque auctor. Aenean ligula mi, auctor sed tempus ultrices, semper tempus diam.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://fboinett.github.io/m_app/stand-out-venues/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+							</item>
+		<item>
+		<title>Technology upgraded</title>
+		<link>https://fboinett.github.io/m_app/technology-upgraded/</link>
+				<pubDate>Mon, 25 Jan 2016 20:30:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[IT]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://keysoft-wp.keydesign-themes.com/?p=406</guid>
+				<description><![CDATA[Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Enim vel et ea [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Enim vel et ea commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Deliver fresh news</title>
+		<link>https://fboinett.github.io/m_app/deliver-fresh-news/</link>
+				<comments>https://fboinett.github.io/m_app/deliver-fresh-news/#respond</comments>
+				<pubDate>Sun, 15 Feb 2015 11:38:47 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Future]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[experiments]]></category>
+		<category><![CDATA[framework]]></category>
+		<category><![CDATA[general]]></category>
+
+		<guid isPermaLink="false">http://appsperia-wp.keydesign-themes.com/?p=242</guid>
+				<description><![CDATA[Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Integer posuere erat a ante venenatis dapibus [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. <strong>Integer posuere</strong> erat a ante venenatis dapibus posuere velit aliquet. Donec ullamcorper nulla non metus auctor fringilla.</p>
+<p>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.</p>
+<blockquote><p>Nunc blandit tincidunt consequat. Duis diam metus, suscipit in pulvinar eget, egestas id arcu. Duis a enim vel mauris ultrices. Nullam aliquet velit ac velit tempus in semper neque auctor. Aenean ligula mi, auctor sed tempus ultrices, semper tempus diam.</p></blockquote>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod <strong>tempor incididunt</strong> ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+<p>Etiam pellentesque, suscipit in pulvinar eget placerat, leo leo consequat ante, non iaculis turpis augue ac ligula. Nunc blandit tincidunt consequat. Duis diam metus, suscipit in pulvinar eget, egestas id arcu. Duis a enim vel mauris ultrices. Nullam aliquet velit ac velit tempus in semper neque auctor. Aenean ligula mi, auctor sed tempus ultrices, semper tempus diam.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://fboinett.github.io/m_app/deliver-fresh-news/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Development solutions</title>
+		<link>https://fboinett.github.io/m_app/development-solutions/</link>
+				<comments>https://fboinett.github.io/m_app/development-solutions/#respond</comments>
+				<pubDate>Sun, 25 Jan 2015 20:21:38 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Future]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[general]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[study]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://keysoft-wp.keydesign-themes.com/?p=401</guid>
+				<description><![CDATA[Cras tincidunt, diam eu sodales accumsan, nisl metus facilisis dui, eu placerat magna justo sed metus. Donec quis molestie lacus, sed ornare lectus. Phasellus elementum turpis eu tortor dictum, a imperdiet leo varius. Fusce mattis accumsan ullamcorper. Duis vulputate eu nulla in pretium. Suspendisse potenti.]]></description>
+								<content:encoded><![CDATA[<p>Aenean molestie mi nibh, et lacinia nibh consectetur sit amet. Morbi ornare ut justo porta euismod. Cras finibus auctor lacus, sit amet varius arcu porta ac. Integer ac viverra risus. Donec sed finibus tellus, ac rhoncus leo. Phasellus et imperdiet metus, nec tempus lectus. Nulla id dictum libero, egestas tristique metus. Fusce id pretium risus, ac dignissim nibh. Morbi in turpis convallis, tincidunt turpis at, posuere nibh.</p>
+<p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean porttitor ex non felis viverra placerat.</p>
+<blockquote><p>Nunc commodo facilisis enim non ornare. Aliquam a auctor arcu. Cras enim sem, volutpat id porta nec, viverra vel purus. Aliquam ac tortor ex. Donec non tincidunt odio, eget porttitor est. Donec volutpat rhoncus ante, tristique sagittis est posuere vitae. Ut ornare tristique cursus.</p></blockquote>
+<p>Etiam risus nisi, hendrerit vitae tempor sagittis, commodo eu lectus. Donec eu ipsum lorem. Ut bibendum quis risus id cursus. Integer imperdiet vehicula urna, mattis tempus tellus sollicitudin vitae. Ut tincidunt sollicitudin feugiat. In tellus risus, porttitor non nisl lacinia, pulvinar ultrices sapien. Vivamus elementum lectus convallis orci gravida suscipit. Aliquam vitae est et justo tincidunt scelerisque.</p>
+<p>Cras tincidunt, diam eu sodales accumsan, nisl metus facilisis dui, eu placerat magna justo sed metus. Donec quis molestie lacus, sed ornare lectus. Phasellus elementum turpis eu tortor dictum, a imperdiet leo varius. Fusce mattis accumsan ullamcorper. Duis vulputate eu nulla in pretium. Suspendisse potenti. Sed sed sagittis justo. Mauris nisl urna, placerat ac lacus eu, mattis venenatis magna. Etiam elementum nec metus sit amet pretium. Mauris sit amet ex erat. In hac habitasse platea dictumst. Vestibulum vehicula nunc mauris.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://fboinett.github.io/m_app/development-solutions/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>
